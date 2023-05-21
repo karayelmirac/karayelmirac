@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react,javascript,css,html,web development**
+- 💬 Ask me about **React,Javascript,CSS,HTML,Web Development**
 
 - 📫 How to reach me **mirackarayel32@icloud.com**
 
