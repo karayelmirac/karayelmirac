@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mirac Karayel</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m **Computer Engineer**
 
-- 💬 Ask me about **React,Javascript,CSS,HTML,Web Development**
+- 💬 Ask me about **React,Javascript,CSS,HTML,Web Development,C#, .Net Web API, React Native**
 
 - 📫 How to reach me **mirackarayel32@icloud.com**
 
