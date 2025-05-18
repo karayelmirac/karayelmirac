@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirac Karayel</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Computer Engineer from Turkey</h3>
 
-- 🌱 I’m **Computer Engineer**
 
 - 💬 Ask me about **React,Javascript,CSS,HTML,Web Development,C#, .Net Web API, React Native**
 
